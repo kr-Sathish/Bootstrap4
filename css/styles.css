@@ -30,3 +30,7 @@ body{
   .hide-para{
     display: none;
   }*/
+  .table-hover{
+    background-color: darkgrey;
+
+  }
